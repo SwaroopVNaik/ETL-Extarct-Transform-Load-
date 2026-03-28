@@ -1,0 +1,20 @@
+2026-03-28 13:20:55,103 - INFO - Data extracted successfully
+2026-03-28 13:20:55,106 - INFO - Data transformed successfully
+2026-03-28 13:20:55,200 - INFO - package: mysql.connector.plugins
+2026-03-28 13:20:55,200 - INFO - plugin_name: caching_sha2_password
+2026-03-28 13:20:55,201 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-03-28 13:20:55,206 - ERROR - Load failed: 1049 (42000): Unknown database 'etl_project'
+2026-03-28 13:22:24,089 - INFO - Data extracted successfully
+2026-03-28 13:22:24,093 - INFO - Data transformed successfully
+2026-03-28 13:22:24,190 - INFO - package: mysql.connector.plugins
+2026-03-28 13:22:24,190 - INFO - plugin_name: caching_sha2_password
+2026-03-28 13:22:24,190 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-03-28 13:22:24,195 - ERROR - Load failed: 1049 (42000): Unknown database 'etl_project'
+2026-03-28 13:22:24,254 - ERROR - Export failed: 1049 (42000): Unknown database 'etl_project'
+2026-03-28 13:24:23,437 - INFO - Data extracted successfully
+2026-03-28 13:24:23,440 - INFO - Data transformed successfully
+2026-03-28 13:24:23,532 - INFO - package: mysql.connector.plugins
+2026-03-28 13:24:23,532 - INFO - plugin_name: caching_sha2_password
+2026-03-28 13:24:23,532 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-03-28 13:24:23,590 - INFO - Data loaded into MySQL
+2026-03-28 13:24:23,686 - INFO - Data exported to JSON
